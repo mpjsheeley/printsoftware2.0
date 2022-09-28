@@ -1,0 +1,19 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/mplogo.png</file>
+        <file>images/downloadgreen.png</file>
+        <file>images/printer.png</file>
+        <file>images/downloadred.png</file>
+        <file>images/open.png</file>
+        <file>images/settings.png</file>
+        <file>images/download.png</file>
+        <file>images/checkerboard.png</file>
+        <file>images/exit.png</file>
+        <file>images/next_img.png</file>
+        <file>images/previous_img.png</file>
+        <file>images/trash.png</file>
+        <file>images/back.png</file>
+        <file>images/fwd.png</file>
+        <file>images/open-in-new.png</file>
+    </qresource>
+</RCC>
